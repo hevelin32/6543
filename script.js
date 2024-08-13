@@ -13,20 +13,20 @@ const perguntas = [
                 afirmacao: "sabe-se que todo apaixonado por carros não se vê só lindeza no carros vemos o quanto ele aguenta "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "só sou por moda ",
+                afirmacao: "todo apaixonado por carro tem uma história a sua pode começar assim."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "você pequeno gearhead sabe os cuidados básicos de manutenção que todo proprietário de carro deve ter?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: " sim, meu carro sempre anda nos trincos",
+                afirmacao: "isso é muito bom significa que você realmente ama seu carro."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "net e conhecimentos próprios sobre o tema.",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
